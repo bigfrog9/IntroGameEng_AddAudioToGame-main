@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d4290a2498fc81b4894976a73ba08e84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerShoot: {fileID: 8300000, guid: 39a5e308b0a8a7c46a2f963f5c82f74e, type: 3}
+  - asteroidExplosion: {fileID: 8300000, guid: 0baa5321d7c4f604bbb1f48511d9636e, type: 3}
+  - playerDamage: {fileID: 8300000, guid: 4333ac7d475fcd746bd0ae1b807c9a05, type: 3}
+  - playerExplosion: {fileID: 8300000, guid: 4d891ad649bb7a346afd05b7076b4c5a, type: 3}
+  - BgMusicGameplay: {instanceID: 0}
+  - BgMusicTitleScreen: {fileID: 8300000, guid: d731c26b476002546982177ff99a1f96, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
